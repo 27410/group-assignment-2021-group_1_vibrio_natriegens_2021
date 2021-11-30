@@ -2,8 +2,6 @@
 
 # 27410 - Group assignment - Group 1 - GSM reconstruction for *Vibrio Natrigens* producing Violacein
 
-> Keep `requirements.txt` up to date -> pip freeze > requirements.txt
-
 ## Project summary
 The aim of this project is to build a genome-scale model (GSM) of *Vibrio natriegens*, applying and validating manually devised cell factory engineering strategies. The heterologous production of Violacein from *Chromobacterium violaceum* is added to the GSM of *V. natriegens*, leveling its flux with Deoxyviolacein. All four models have been run with Memote to assess its quality, showing improvement when Violacein is added. The model is used to assess the growth rate and Violacein production rate on different media and different carbon sources, as well as applying some knocking out strategies. The outcomes are summarised on phenotypic phase planes. Heterologous pathways to Violacein have been studied but no results have been found.
 
